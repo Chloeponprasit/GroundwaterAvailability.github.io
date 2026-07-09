@@ -23,9 +23,9 @@ This project leverages modern geospatial tools and data science packages to buil
 * **Programming Languages & Data Science:** `Python` (Geopandas, Pandas, NumPy, Matplotlib, SciPy) for spatial data manipulation and statistical plotting.
 * **Version Control:** `Git` for collaborative, organized, and reproducible research.
 
-##คลังข้อมูลนี้จัดทำขึ้นเพื่อการวิเคราะห์และประเมินศักยภาพปริมาณน้ำบาดาลที่สามารถนำมาใช้ได้อย่างยั่งยืน (Groundwater Availability) โดยเน้นการวิเคราะห์ข้อมูลเชิงพื้นที่และการบูรณาการข้อมูลทางอุทกธรณีวิทยา ร่วมกับระบบสารสนเทศภูมิศาสตร์ (GIS) และการประมวลผลข้อมูลด้วย Python เพื่อพัฒนาเครื่องมือประมวลผลข้อมูลเชิงพื้นที่ (Geospatial Workflows) ที่ช่วยสนับสนุนการวางแผนและการบริหารจัดการทรัพยากรน้ำบาดาลเชิงพื้นที่อย่างมีประสิทธิภาพในพื้นที่ภาคตะวันออกของประเทศไทย
+## คลังข้อมูลนี้จัดทำขึ้นเพื่อการวิเคราะห์และประเมินศักยภาพปริมาณน้ำบาดาลที่สามารถนำมาใช้ได้อย่างยั่งยืน (Groundwater Availability) โดยเน้นการวิเคราะห์ข้อมูลเชิงพื้นที่และการบูรณาการข้อมูลทางอุทกธรณีวิทยา ร่วมกับระบบสารสนเทศภูมิศาสตร์ (GIS) และการประมวลผลข้อมูลด้วย Python เพื่อพัฒนาเครื่องมือประมวลผลข้อมูลเชิงพื้นที่ (Geospatial Workflows) ที่ช่วยสนับสนุนการวางแผนและการบริหารจัดการทรัพยากรน้ำบาดาลเชิงพื้นที่อย่างมีประสิทธิภาพในพื้นที่ภาคตะวันออกของประเทศไทย
 
-##👤 Author & Contact
+## 👤 Author & Contact
 Chaloemporn Ponprasit
 Hydrogeologist at the Department of Groundwater Resources, Thailand: Bureau of Groundwater resources Region 9 Rayong.
 Research Interests: Hydrogeology, GIS Applications in Geoscience, Spatial Data Analysis, Data-driven Water Resource Management.
